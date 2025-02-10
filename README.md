@@ -89,10 +89,4 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 
 ---
 
-## 📞 Contact
-
-For inquiries or support, please open an issue or contact the project maintainers at [support@flakproject.org](mailto:support@flakproject.org).
-
----
-
 Join us in making devices truly yours. Reclaim control with FLAK!
